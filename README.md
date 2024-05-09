@@ -10,8 +10,9 @@
 
 ### 👍 | What i'm good at
 
-* UI/GUI designing
-* Usage of different services API in projects
+🎨 * UI/GUI designing
+🌐 * Usage of different services API in projects
+🖥️ * Web development
 
 ### 🔗 | Special links
 
