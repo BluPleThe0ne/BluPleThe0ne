@@ -8,6 +8,8 @@
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30" height="30"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" width="30" height="30"> 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" width="30" height="30">
+
 ### 👍 | What i'm good at
 
 🎨 * UI/GUI designing
