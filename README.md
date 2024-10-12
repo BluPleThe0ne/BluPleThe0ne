@@ -1,6 +1,6 @@
 # 🟦 | Introduction
 
-<b id="b1">Hi ! I'm BluPle, a 16 yo developer from France. Coding is my passion and maybe one day, I will be able to live from this passion 💪</b>
+<b id="b1">Hi ! I'm BluPle, a 17 yo developer from France. Coding is my passion and maybe one day, I will be able to live from this passion 💪</b>
 <br>
 
 ## 🔷 | Languages i use
