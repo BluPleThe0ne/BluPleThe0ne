@@ -22,6 +22,7 @@
 - 🎨 UI/GUI designing  
 - 🌐 Usage of different services API in projects  
 - 🖥️ Web development
+- 🗄️ Custom costless servers
 
 ---
 
