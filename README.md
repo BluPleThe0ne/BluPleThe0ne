@@ -82,6 +82,8 @@
 
   ---
 
+  <a href="https://discord.com/users/791975680330039326"><img src="https://lanyard.cnrad.dev/api/791975680330039326" /></a>
+
   <h2>📊 | My GitHub Stats</h2>
 
   <p align="center">
